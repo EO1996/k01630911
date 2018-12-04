@@ -16,3 +16,5 @@ Während der Napoleonischen Kriege war der Burgstall Meggenhofen mehrfach besetz
 Seit 1918 gehört der Ort zum Bundesland Oberösterreich. Nach dem Anschluss Österreichs an das Deutsche Reich am 13. März 1938 gehörte der Ort zum Gau Oberdonau. Nach 1945 erfolgte die Wiederherstellung Oberösterreichs.
 
 [Quelle] (https://de.wikipedia.org/wiki/Meggenhofen)
+
+![Wappen von Meggenhofen](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Coat_of_arms_Meggenhofen.svg/800px-Coat_of_arms_Meggenhofen.svg.png "Wappen")
